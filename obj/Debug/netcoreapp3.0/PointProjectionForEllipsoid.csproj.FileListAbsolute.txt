@@ -1,0 +1,13 @@
+C:\Users\Я\source\repos\PointProjectionForEllipsoid\bin\Debug\netcoreapp3.0\PointProjectionForEllipsoid.exe
+C:\Users\Я\source\repos\PointProjectionForEllipsoid\bin\Debug\netcoreapp3.0\PointProjectionForEllipsoid.deps.json
+C:\Users\Я\source\repos\PointProjectionForEllipsoid\bin\Debug\netcoreapp3.0\PointProjectionForEllipsoid.runtimeconfig.json
+C:\Users\Я\source\repos\PointProjectionForEllipsoid\bin\Debug\netcoreapp3.0\PointProjectionForEllipsoid.runtimeconfig.dev.json
+C:\Users\Я\source\repos\PointProjectionForEllipsoid\bin\Debug\netcoreapp3.0\PointProjectionForEllipsoid.dll
+C:\Users\Я\source\repos\PointProjectionForEllipsoid\bin\Debug\netcoreapp3.0\PointProjectionForEllipsoid.pdb
+C:\Users\Я\source\repos\PointProjectionForEllipsoid\obj\Debug\netcoreapp3.0\PointProjectionForEllipsoid.csprojAssemblyReference.cache
+C:\Users\Я\source\repos\PointProjectionForEllipsoid\obj\Debug\netcoreapp3.0\PointProjectionForEllipsoid.AssemblyInfoInputs.cache
+C:\Users\Я\source\repos\PointProjectionForEllipsoid\obj\Debug\netcoreapp3.0\PointProjectionForEllipsoid.AssemblyInfo.cs
+C:\Users\Я\source\repos\PointProjectionForEllipsoid\obj\Debug\netcoreapp3.0\PointProjectionForEllipsoid.dll
+C:\Users\Я\source\repos\PointProjectionForEllipsoid\obj\Debug\netcoreapp3.0\PointProjectionForEllipsoid.pdb
+C:\Users\Я\source\repos\PointProjectionForEllipsoid\obj\Debug\netcoreapp3.0\PointProjectionForEllipsoid.csproj.CoreCompileInputs.cache
+C:\Users\Я\source\repos\PointProjectionForEllipsoid\obj\Debug\netcoreapp3.0\PointProjectionForEllipsoid.genruntimeconfig.cache
